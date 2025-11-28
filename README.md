@@ -1,6 +1,3 @@
-Claro! Aqui está o **README.md** pronto para você copiar e colar, sem a parte de licença ou screenshots:
-
-````markdown
 # Agência Espacial POO
 
 ## Descrição
