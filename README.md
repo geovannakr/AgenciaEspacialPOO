@@ -99,5 +99,3 @@ Escolha uma opção:
    ```
 3. Faça suas alterações e envie para o repositório.
 4. Envie um pull request.
-
-```
